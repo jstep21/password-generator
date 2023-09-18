@@ -1,1 +1,2 @@
-# generates password - input number of letters, symbols and numbers
+# generates random password
+input number of letters, symbols and numbers
